@@ -14,7 +14,7 @@ const app = express();
 const allowedOrigins = [
   "https://dreamy-crumble-8fed88.netlify.app", // old frontend
   "https://smart-grid-data-optimization.netlify.app", // new frontend
-  "http://localhost:3000" // local dev testing
+  "http://localhost:5000" // local dev testing
 ];
 
 // ✅ Proper CORS middleware
