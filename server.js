@@ -12,7 +12,7 @@ const app = express();
 
 // ✅ Allowed Origins define karo
 const allowedOrigins = [
-  "https://dreamy-crumble-8fed88.netlify.app", // old frontend
+  "https://strong-mooncake-b6e7eb/overview", // old frontend
   "https://smart-grid-data-optimization.netlify.app", // new frontend
   "http://localhost:5000" // local dev testing
 ];
